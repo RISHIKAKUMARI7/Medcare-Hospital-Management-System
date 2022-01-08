@@ -13,5 +13,5 @@ Web App Service
 HTML, CSS, JavaScript
 
 
-#### Website URL: https://kind-beach-0faf64a10.azurestaticapps.net/
+#### Website URL: https://salmon-tree-096cd0a10.azurestaticapps.net
 #### Project Demo URL (Video):
